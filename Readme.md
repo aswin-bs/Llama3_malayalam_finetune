@@ -1,7 +1,7 @@
 
 # Fine-Tuning LLaMA Model
 
-This project demonstrates the process of fine-tuning the LLaMA model using instruct dataset on malayalm .
+This project demonstrates the process of fine-tuning the LLaMA model using malayalam instruct dataset and unsloth.
 
 ## Table of Contents
 
@@ -19,4 +19,4 @@ This project demonstrates the process of fine-tuning the LLaMA model using instr
 
 ## Conclusion
 
-Conclude the project by discussing the outcomes and potential future work on creating multilingual LLM projects
+Conclude the project by discussing the outcomes and potential future work on creating multilingual LLMs. Also how to fine tune llms in more efficient way using unsloth.
